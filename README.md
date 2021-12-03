@@ -14,6 +14,6 @@
 <br>
 
 > What to expect?
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FrmkvqeVNKIKDIxosXBNtvM%2FUntitled%3Fnode-id%3D207%253A2" allowfullscreen></iframe>
+<img style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FrmkvqeVNKIKDIxosXBNtvM%2FUntitled%3Fnode-id%3D207%253A2" allowfullscreen>
 
-https://www.figma.com/proto/rmkvqeVNKIKDIxosXBNtvM/Untitled?node-id=207%3A2
+<img src="https://www.figma.com/proto/rmkvqeVNKIKDIxosXBNtvM/Untitled?node-id=207%3A2">
