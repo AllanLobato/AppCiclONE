@@ -1,2 +1,2 @@
 # AppCiclONE
-Esse é um projeto feito em React Native para calcular o valor mínimo de venda de uma Loja
+Esse é um projeto feito em React Native para concluir o desafio da BC_Academy. Projeto feito para auxiliar nas vendas de uma loja.
