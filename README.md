@@ -3,13 +3,29 @@
 > Status: Developing ⚠️
 
 
-### This is a project done in React Native to complete the BC_Academy challenge.
+#### This is a project done in React Native to complete the BC_Academy challenge.
 <br>
 
+>#### Technologies used
 
- ### How to run the application
+•UseState
 
-+ npx react-native run-android
+•UseEffect
+
+•Modal
+
+•Flatlist
+
+•CSS import
+
+•Axios
+
+•React Navigation
+
+•Share
+
+
+
 
 <br>
 
@@ -19,7 +35,9 @@
 ![image](https://user-images.githubusercontent.com/67288620/144615504-6788230c-52ce-43d6-b729-dfd5770b0da4.png)
 
 
+ ### How to run the application
 
++ npx react-native run-android
 
 
 
