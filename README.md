@@ -32,7 +32,7 @@
 > ## What to expect?
 
 
-![gif](https://github.com/AllanLobato/AppCiclONE/blob/master/src/components/public/assets/AppOrcamento.gif)
+![gif](https://github.com/AllanLobato/AppCiclONE/blob/master/src/components/public/assets/CiclONEGIf.gif)
 
 
  ### How to run the application
