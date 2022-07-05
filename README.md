@@ -3,7 +3,7 @@
 > Status: Developing ⚠️
 
 
-#### This is a project done in React Native to complete the BC_Academy challenge.
+#### This is a project build in React Native to complete the BC_Academy challenge.
 <br>
 
 >#### Technologies used
